@@ -1,0 +1,3 @@
+[url=https://github.com/MusicManiac/EvolvingTraitsWorld/blob/main/CHANGELOG.md](Properly formatted changelog can be found here)[/url]
+
+v.1.0.0 - Initial Release
